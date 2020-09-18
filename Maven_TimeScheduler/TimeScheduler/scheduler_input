@@ -1,0 +1,73 @@
+﻿[ {
+  "@type" : "doNotDisturb",
+  "duration" : 480,
+  "repeat" : "DAILY",
+  "event" : "SLEEP",
+  "startT" : "22:00:00"
+}, {
+  "@type" : "doNotDisturb",
+  "duration" : 30,
+  "repeat" : "WEDNESDAY",
+  "event" : "LUNCH",
+  "startT" : "11:45:00"
+}, {
+  "@type" : "doNotDisturb",
+  "duration" : 30,
+  "repeat" : "TUESDAY",
+  "event" : "LUNCH",
+  "startT" : "12:30:00"
+}, {
+  "@type" : "doNotDisturb",
+  "duration" : 30,
+  "repeat" : "MONDAY",
+  "event" : "LUNCH",
+  "startT" : "11:30:00"
+}, {
+  "@type" : "schoolActivity",
+  "duration" : 20000,
+  "deadline" : "2018-06-30T12:00:00",
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "duration" : 8000,
+  "deadline" : "2018-08-16T12:00:00",
+  "name" : "Téma r.p. a b.p.",
+  "description" : "Dohodnúť tému ročníkového projektu a bakalárskej práce.",
+  "schoolActivityType" : "HOMEWORK"
+}, {
+  "@type" : "schoolActivity",
+  "duration" : 30000,
+  "deadline" : "2018-07-31T12:00:00",
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "duration" : 60000,
+  "deadline" : "2018-11-15T00:00:00",
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "sportActivity",
+  "startDT" : "2018-06-05T10:00:00",
+  "duration" : 60,
+  "description" : "Hra Tenis",
+  "location" : "Kolej 17. listopadu, kurt pred Vltavou",
+  "sportActivityType" : "RACQUET"
+}, {
+  "@type" : "sportActivity",
+  "startDT" : "2018-06-08T18:00:00",
+  "duration" : 50,
+  "description" : "Hra Ping-Pong",
+  "location" : "Kolej 17. listopadu",
+  "sportActivityType" : "RACQUET"
+}, {
+  "@type" : "freeTime",
+  "startDT" : "2018-06-09T20:00:00",
+  "duration" : 90,
+  "name" : "Kino Cinemax",
+  "description" : "Star Wars"
+} ]

@@ -1,0 +1,1003 @@
+[ {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-02-27T08:00:00",
+  "duration" : 90,
+  "name" : "Technologie XML",
+  "description" : "Holubová Irena, doc. RNDr., NPRG036",
+  "location" : "S3",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-02-27T11:20:00",
+  "duration" : 90,
+  "name" : "Databázové systémy",
+  "description" : "Lokoč Jakub, RNDr., Ph.D., NDBI025",
+  "location" : "S7",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-02-27T14:40:00",
+  "duration" : 90,
+  "name" : "Optimalizační metody",
+  "description" : "Dvořák Pavel, Mgr., NOPT048",
+  "location" : "S10",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-02-28T11:20:00",
+  "duration" : 45,
+  "name" : "Tělesná výchova IV",
+  "description" : "Teplý Jiří, Mgr., NTVY017",
+  "location" : "KTV",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-01T08:00:00",
+  "duration" : 90,
+  "name" : "Automaty a gramatiky",
+  "description" : "Majerech Vladan, Mgr., NTIN071",
+  "location" : "S10",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-01T13:00:00",
+  "duration" : 90,
+  "name" : "Optimalizační metody",
+  "description" : "Martin Loebl, prof. RNDr., CSc., NOPT048",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-01T16:20:00",
+  "duration" : 90,
+  "name" : "Automaty a gramatiky",
+  "description" : "Vomlelová Marta, Mgr., Ph.D., NTIN071",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-03T08:00:00",
+  "duration" : 90,
+  "name" : "Technologie XML",
+  "description" : "Hemlich Jiří, RNDr., NPRG036",
+  "location" : "SW2",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-03T11:20:00",
+  "duration" : 90,
+  "name" : "Databázové systémy",
+  "description" : "Kopecký Michal, RNDr., Ph.D., NDBI025",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-06T08:00:00",
+  "duration" : 90,
+  "name" : "Technologie XML",
+  "description" : "Holubová Irena, doc. RNDr., NPRG036",
+  "location" : "S3",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-06T11:20:00",
+  "duration" : 90,
+  "name" : "Databázové systémy",
+  "description" : "Lokoč Jakub, RNDr., Ph.D., NDBI025",
+  "location" : "S7",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-06T14:40:00",
+  "duration" : 90,
+  "name" : "Optimalizační metody",
+  "description" : "Dvořák Pavel, Mgr., NOPT048",
+  "location" : "S10",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-07T11:20:00",
+  "duration" : 45,
+  "name" : "Tělesná výchova IV",
+  "description" : "Teplý Jiří, Mgr., NTVY017",
+  "location" : "KTV",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-08T08:00:00",
+  "duration" : 90,
+  "name" : "Automaty a gramatiky",
+  "description" : "Majerech Vladan, Mgr., NTIN071",
+  "location" : "S10",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-08T13:00:00",
+  "duration" : 90,
+  "name" : "Optimalizační metody",
+  "description" : "Martin Loebl, prof. RNDr., CSc., NOPT048",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-08T16:20:00",
+  "duration" : 90,
+  "name" : "Automaty a gramatiky",
+  "description" : "Vomlelová Marta, Mgr., Ph.D., NTIN071",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-10T08:00:00",
+  "duration" : 90,
+  "name" : "Technologie XML",
+  "description" : "Hemlich Jiří, RNDr., NPRG036",
+  "location" : "SW2",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-10T11:20:00",
+  "duration" : 90,
+  "name" : "Databázové systémy",
+  "description" : "Kopecký Michal, RNDr., Ph.D., NDBI025",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-13T08:00:00",
+  "duration" : 90,
+  "name" : "Technologie XML",
+  "description" : "Holubová Irena, doc. RNDr., NPRG036",
+  "location" : "S3",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-13T11:20:00",
+  "duration" : 90,
+  "name" : "Databázové systémy",
+  "description" : "Lokoč Jakub, RNDr., Ph.D., NDBI025",
+  "location" : "S7",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-13T14:40:00",
+  "duration" : 90,
+  "name" : "Optimalizační metody",
+  "description" : "Dvořák Pavel, Mgr., NOPT048",
+  "location" : "S10",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-14T11:20:00",
+  "duration" : 45,
+  "name" : "Tělesná výchova IV",
+  "description" : "Teplý Jiří, Mgr., NTVY017",
+  "location" : "KTV",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-15T08:00:00",
+  "duration" : 90,
+  "name" : "Automaty a gramatiky",
+  "description" : "Majerech Vladan, Mgr., NTIN071",
+  "location" : "S10",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-15T13:00:00",
+  "duration" : 90,
+  "name" : "Optimalizační metody",
+  "description" : "Martin Loebl, prof. RNDr., CSc., NOPT048",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-15T16:20:00",
+  "duration" : 90,
+  "name" : "Automaty a gramatiky",
+  "description" : "Vomlelová Marta, Mgr., Ph.D., NTIN071",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-17T08:00:00",
+  "duration" : 90,
+  "name" : "Technologie XML",
+  "description" : "Hemlich Jiří, RNDr., NPRG036",
+  "location" : "SW2",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-17T11:20:00",
+  "duration" : 90,
+  "name" : "Databázové systémy",
+  "description" : "Kopecký Michal, RNDr., Ph.D., NDBI025",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-20T08:00:00",
+  "duration" : 90,
+  "name" : "Technologie XML",
+  "description" : "Holubová Irena, doc. RNDr., NPRG036",
+  "location" : "S3",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-20T11:20:00",
+  "duration" : 90,
+  "name" : "Databázové systémy",
+  "description" : "Lokoč Jakub, RNDr., Ph.D., NDBI025",
+  "location" : "S7",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-20T14:40:00",
+  "duration" : 90,
+  "name" : "Optimalizační metody",
+  "description" : "Dvořák Pavel, Mgr., NOPT048",
+  "location" : "S10",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-21T11:20:00",
+  "duration" : 45,
+  "name" : "Tělesná výchova IV",
+  "description" : "Teplý Jiří, Mgr., NTVY017",
+  "location" : "KTV",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-22T08:00:00",
+  "duration" : 90,
+  "name" : "Automaty a gramatiky",
+  "description" : "Majerech Vladan, Mgr., NTIN071",
+  "location" : "S10",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-22T13:00:00",
+  "duration" : 90,
+  "name" : "Optimalizační metody",
+  "description" : "Martin Loebl, prof. RNDr., CSc., NOPT048",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-22T16:20:00",
+  "duration" : 90,
+  "name" : "Automaty a gramatiky",
+  "description" : "Vomlelová Marta, Mgr., Ph.D., NTIN071",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-24T08:00:00",
+  "duration" : 90,
+  "name" : "Technologie XML",
+  "description" : "Hemlich Jiří, RNDr., NPRG036",
+  "location" : "SW2",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-24T11:20:00",
+  "duration" : 90,
+  "name" : "Databázové systémy",
+  "description" : "Kopecký Michal, RNDr., Ph.D., NDBI025",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-27T08:00:00",
+  "duration" : 90,
+  "name" : "Technologie XML",
+  "description" : "Holubová Irena, doc. RNDr., NPRG036",
+  "location" : "S3",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-27T11:20:00",
+  "duration" : 90,
+  "name" : "Databázové systémy",
+  "description" : "Lokoč Jakub, RNDr., Ph.D., NDBI025",
+  "location" : "S7",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-27T14:40:00",
+  "duration" : 90,
+  "name" : "Optimalizační metody",
+  "description" : "Dvořák Pavel, Mgr., NOPT048",
+  "location" : "S10",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-28T11:20:00",
+  "duration" : 45,
+  "name" : "Tělesná výchova IV",
+  "description" : "Teplý Jiří, Mgr., NTVY017",
+  "location" : "KTV",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-29T08:00:00",
+  "duration" : 90,
+  "name" : "Automaty a gramatiky",
+  "description" : "Majerech Vladan, Mgr., NTIN071",
+  "location" : "S10",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-29T13:00:00",
+  "duration" : 90,
+  "name" : "Optimalizační metody",
+  "description" : "Martin Loebl, prof. RNDr., CSc., NOPT048",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-29T16:20:00",
+  "duration" : 90,
+  "name" : "Automaty a gramatiky",
+  "description" : "Vomlelová Marta, Mgr., Ph.D., NTIN071",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-31T08:00:00",
+  "duration" : 90,
+  "name" : "Technologie XML",
+  "description" : "Hemlich Jiří, RNDr., NPRG036",
+  "location" : "SW2",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-03-31T11:20:00",
+  "duration" : 90,
+  "name" : "Databázové systémy",
+  "description" : "Kopecký Michal, RNDr., Ph.D., NDBI025",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-03T08:00:00",
+  "duration" : 90,
+  "name" : "Technologie XML",
+  "description" : "Holubová Irena, doc. RNDr., NPRG036",
+  "location" : "S3",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-03T11:20:00",
+  "duration" : 90,
+  "name" : "Databázové systémy",
+  "description" : "Lokoč Jakub, RNDr., Ph.D., NDBI025",
+  "location" : "S7",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-03T14:40:00",
+  "duration" : 90,
+  "name" : "Optimalizační metody",
+  "description" : "Dvořák Pavel, Mgr., NOPT048",
+  "location" : "S10",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-04T11:20:00",
+  "duration" : 45,
+  "name" : "Tělesná výchova IV",
+  "description" : "Teplý Jiří, Mgr., NTVY017",
+  "location" : "KTV",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-05T08:00:00",
+  "duration" : 90,
+  "name" : "Automaty a gramatiky",
+  "description" : "Majerech Vladan, Mgr., NTIN071",
+  "location" : "S10",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-05T13:00:00",
+  "duration" : 90,
+  "name" : "Optimalizační metody",
+  "description" : "Martin Loebl, prof. RNDr., CSc., NOPT048",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-05T16:20:00",
+  "duration" : 90,
+  "name" : "Automaty a gramatiky",
+  "description" : "Vomlelová Marta, Mgr., Ph.D., NTIN071",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-07T08:00:00",
+  "duration" : 90,
+  "name" : "Technologie XML",
+  "description" : "Hemlich Jiří, RNDr., NPRG036",
+  "location" : "SW2",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-07T11:20:00",
+  "duration" : 90,
+  "name" : "Databázové systémy",
+  "description" : "Kopecký Michal, RNDr., Ph.D., NDBI025",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-10T08:00:00",
+  "duration" : 90,
+  "name" : "Technologie XML",
+  "description" : "Holubová Irena, doc. RNDr., NPRG036",
+  "location" : "S3",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-10T11:20:00",
+  "duration" : 90,
+  "name" : "Databázové systémy",
+  "description" : "Lokoč Jakub, RNDr., Ph.D., NDBI025",
+  "location" : "S7",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-10T14:40:00",
+  "duration" : 90,
+  "name" : "Optimalizační metody",
+  "description" : "Dvořák Pavel, Mgr., NOPT048",
+  "location" : "S10",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-11T11:20:00",
+  "duration" : 45,
+  "name" : "Tělesná výchova IV",
+  "description" : "Teplý Jiří, Mgr., NTVY017",
+  "location" : "KTV",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-12T08:00:00",
+  "duration" : 90,
+  "name" : "Automaty a gramatiky",
+  "description" : "Majerech Vladan, Mgr., NTIN071",
+  "location" : "S10",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-12T13:00:00",
+  "duration" : 90,
+  "name" : "Optimalizační metody",
+  "description" : "Martin Loebl, prof. RNDr., CSc., NOPT048",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-12T16:20:00",
+  "duration" : 90,
+  "name" : "Automaty a gramatiky",
+  "description" : "Vomlelová Marta, Mgr., Ph.D., NTIN071",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-14T08:00:00",
+  "duration" : 90,
+  "name" : "Technologie XML",
+  "description" : "Hemlich Jiří, RNDr., NPRG036",
+  "location" : "SW2",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-14T11:20:00",
+  "duration" : 90,
+  "name" : "Databázové systémy",
+  "description" : "Kopecký Michal, RNDr., Ph.D., NDBI025",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-17T08:00:00",
+  "duration" : 90,
+  "name" : "Technologie XML",
+  "description" : "Holubová Irena, doc. RNDr., NPRG036",
+  "location" : "S3",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-17T11:20:00",
+  "duration" : 90,
+  "name" : "Databázové systémy",
+  "description" : "Lokoč Jakub, RNDr., Ph.D., NDBI025",
+  "location" : "S7",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-17T14:40:00",
+  "duration" : 90,
+  "name" : "Optimalizační metody",
+  "description" : "Dvořák Pavel, Mgr., NOPT048",
+  "location" : "S10",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-18T11:20:00",
+  "duration" : 45,
+  "name" : "Tělesná výchova IV",
+  "description" : "Teplý Jiří, Mgr., NTVY017",
+  "location" : "KTV",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-19T08:00:00",
+  "duration" : 90,
+  "name" : "Automaty a gramatiky",
+  "description" : "Majerech Vladan, Mgr., NTIN071",
+  "location" : "S10",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-19T13:00:00",
+  "duration" : 90,
+  "name" : "Optimalizační metody",
+  "description" : "Martin Loebl, prof. RNDr., CSc., NOPT048",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-19T16:20:00",
+  "duration" : 90,
+  "name" : "Automaty a gramatiky",
+  "description" : "Vomlelová Marta, Mgr., Ph.D., NTIN071",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-21T08:00:00",
+  "duration" : 90,
+  "name" : "Technologie XML",
+  "description" : "Hemlich Jiří, RNDr., NPRG036",
+  "location" : "SW2",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-21T11:20:00",
+  "duration" : 90,
+  "name" : "Databázové systémy",
+  "description" : "Kopecký Michal, RNDr., Ph.D., NDBI025",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-24T08:00:00",
+  "duration" : 90,
+  "name" : "Technologie XML",
+  "description" : "Holubová Irena, doc. RNDr., NPRG036",
+  "location" : "S3",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-24T11:20:00",
+  "duration" : 90,
+  "name" : "Databázové systémy",
+  "description" : "Lokoč Jakub, RNDr., Ph.D., NDBI025",
+  "location" : "S7",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-24T14:40:00",
+  "duration" : 90,
+  "name" : "Optimalizační metody",
+  "description" : "Dvořák Pavel, Mgr., NOPT048",
+  "location" : "S10",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-25T11:20:00",
+  "duration" : 45,
+  "name" : "Tělesná výchova IV",
+  "description" : "Teplý Jiří, Mgr., NTVY017",
+  "location" : "KTV",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-26T08:00:00",
+  "duration" : 90,
+  "name" : "Automaty a gramatiky",
+  "description" : "Majerech Vladan, Mgr., NTIN071",
+  "location" : "S10",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-26T13:00:00",
+  "duration" : 90,
+  "name" : "Optimalizační metody",
+  "description" : "Martin Loebl, prof. RNDr., CSc., NOPT048",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-26T16:20:00",
+  "duration" : 90,
+  "name" : "Automaty a gramatiky",
+  "description" : "Vomlelová Marta, Mgr., Ph.D., NTIN071",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-28T08:00:00",
+  "duration" : 90,
+  "name" : "Technologie XML",
+  "description" : "Hemlich Jiří, RNDr., NPRG036",
+  "location" : "SW2",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-04-28T11:20:00",
+  "duration" : 90,
+  "name" : "Databázové systémy",
+  "description" : "Kopecký Michal, RNDr., Ph.D., NDBI025",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-01T08:00:00",
+  "duration" : 90,
+  "name" : "Technologie XML",
+  "description" : "Holubová Irena, doc. RNDr., NPRG036",
+  "location" : "S3",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-01T11:20:00",
+  "duration" : 90,
+  "name" : "Databázové systémy",
+  "description" : "Lokoč Jakub, RNDr., Ph.D., NDBI025",
+  "location" : "S7",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-01T14:40:00",
+  "duration" : 90,
+  "name" : "Optimalizační metody",
+  "description" : "Dvořák Pavel, Mgr., NOPT048",
+  "location" : "S10",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-02T11:20:00",
+  "duration" : 45,
+  "name" : "Tělesná výchova IV",
+  "description" : "Teplý Jiří, Mgr., NTVY017",
+  "location" : "KTV",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-03T08:00:00",
+  "duration" : 90,
+  "name" : "Automaty a gramatiky",
+  "description" : "Majerech Vladan, Mgr., NTIN071",
+  "location" : "S10",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-03T13:00:00",
+  "duration" : 90,
+  "name" : "Optimalizační metody",
+  "description" : "Martin Loebl, prof. RNDr., CSc., NOPT048",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-03T16:20:00",
+  "duration" : 90,
+  "name" : "Automaty a gramatiky",
+  "description" : "Vomlelová Marta, Mgr., Ph.D., NTIN071",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-05T08:00:00",
+  "duration" : 90,
+  "name" : "Technologie XML",
+  "description" : "Hemlich Jiří, RNDr., NPRG036",
+  "location" : "SW2",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-05T11:20:00",
+  "duration" : 90,
+  "name" : "Databázové systémy",
+  "description" : "Kopecký Michal, RNDr., Ph.D., NDBI025",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-08T08:00:00",
+  "duration" : 90,
+  "name" : "Technologie XML",
+  "description" : "Holubová Irena, doc. RNDr., NPRG036",
+  "location" : "S3",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-08T11:20:00",
+  "duration" : 90,
+  "name" : "Databázové systémy",
+  "description" : "Lokoč Jakub, RNDr., Ph.D., NDBI025",
+  "location" : "S7",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-08T14:40:00",
+  "duration" : 90,
+  "name" : "Optimalizační metody",
+  "description" : "Dvořák Pavel, Mgr., NOPT048",
+  "location" : "S10",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-09T11:20:00",
+  "duration" : 45,
+  "name" : "Tělesná výchova IV",
+  "description" : "Teplý Jiří, Mgr., NTVY017",
+  "location" : "KTV",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-10T08:00:00",
+  "duration" : 90,
+  "name" : "Automaty a gramatiky",
+  "description" : "Majerech Vladan, Mgr., NTIN071",
+  "location" : "S10",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-10T13:00:00",
+  "duration" : 90,
+  "name" : "Optimalizační metody",
+  "description" : "Martin Loebl, prof. RNDr., CSc., NOPT048",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-10T16:20:00",
+  "duration" : 90,
+  "name" : "Automaty a gramatiky",
+  "description" : "Vomlelová Marta, Mgr., Ph.D., NTIN071",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-12T08:00:00",
+  "duration" : 90,
+  "name" : "Technologie XML",
+  "description" : "Hemlich Jiří, RNDr., NPRG036",
+  "location" : "SW2",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-12T11:20:00",
+  "duration" : 90,
+  "name" : "Databázové systémy",
+  "description" : "Kopecký Michal, RNDr., Ph.D., NDBI025",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-15T08:00:00",
+  "duration" : 90,
+  "name" : "Technologie XML",
+  "description" : "Holubová Irena, doc. RNDr., NPRG036",
+  "location" : "S3",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-15T11:20:00",
+  "duration" : 90,
+  "name" : "Databázové systémy",
+  "description" : "Lokoč Jakub, RNDr., Ph.D., NDBI025",
+  "location" : "S7",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-15T14:40:00",
+  "duration" : 90,
+  "name" : "Optimalizační metody",
+  "description" : "Dvořák Pavel, Mgr., NOPT048",
+  "location" : "S10",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-16T11:20:00",
+  "duration" : 45,
+  "name" : "Tělesná výchova IV",
+  "description" : "Teplý Jiří, Mgr., NTVY017",
+  "location" : "KTV",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-17T08:00:00",
+  "duration" : 90,
+  "name" : "Automaty a gramatiky",
+  "description" : "Majerech Vladan, Mgr., NTIN071",
+  "location" : "S10",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-17T13:00:00",
+  "duration" : 90,
+  "name" : "Optimalizační metody",
+  "description" : "Martin Loebl, prof. RNDr., CSc., NOPT048",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-17T16:20:00",
+  "duration" : 90,
+  "name" : "Automaty a gramatiky",
+  "description" : "Vomlelová Marta, Mgr., Ph.D., NTIN071",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-19T08:00:00",
+  "duration" : 90,
+  "name" : "Technologie XML",
+  "description" : "Hemlich Jiří, RNDr., NPRG036",
+  "location" : "SW2",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-19T11:20:00",
+  "duration" : 90,
+  "name" : "Databázové systémy",
+  "description" : "Kopecký Michal, RNDr., Ph.D., NDBI025",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-22T08:00:00",
+  "duration" : 90,
+  "name" : "Technologie XML",
+  "description" : "Holubová Irena, doc. RNDr., NPRG036",
+  "location" : "S3",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-22T11:20:00",
+  "duration" : 90,
+  "name" : "Databázové systémy",
+  "description" : "Lokoč Jakub, RNDr., Ph.D., NDBI025",
+  "location" : "S7",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-22T14:40:00",
+  "duration" : 90,
+  "name" : "Optimalizační metody",
+  "description" : "Dvořák Pavel, Mgr., NOPT048",
+  "location" : "S10",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-23T11:20:00",
+  "duration" : 45,
+  "name" : "Tělesná výchova IV",
+  "description" : "Teplý Jiří, Mgr., NTVY017",
+  "location" : "KTV",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-24T08:00:00",
+  "duration" : 90,
+  "name" : "Automaty a gramatiky",
+  "description" : "Majerech Vladan, Mgr., NTIN071",
+  "location" : "S10",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-24T13:00:00",
+  "duration" : 90,
+  "name" : "Optimalizační metody",
+  "description" : "Martin Loebl, prof. RNDr., CSc., NOPT048",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-24T16:20:00",
+  "duration" : 90,
+  "name" : "Automaty a gramatiky",
+  "description" : "Vomlelová Marta, Mgr., Ph.D., NTIN071",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-26T08:00:00",
+  "duration" : 90,
+  "name" : "Technologie XML",
+  "description" : "Hemlich Jiří, RNDr., NPRG036",
+  "location" : "SW2",
+  "schoolActivityType" : "PRACTICAL"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2017-05-26T11:20:00",
+  "duration" : 90,
+  "name" : "Databázové systémy",
+  "description" : "Kopecký Michal, RNDr., Ph.D., NDBI025",
+  "location" : "S5",
+  "schoolActivityType" : "LECTURE"
+}, {
+  "@type" : "doNotDisturb",
+  "duration" : 480,
+  "repeat" : "DAILY",
+  "event" : "SLEEP",
+  "startT" : "22:00:00"
+}, {
+  "@type" : "doNotDisturb",
+  "duration" : 30,
+  "repeat" : "WEDNESDAY",
+  "event" : "LUNCH",
+  "startT" : "11:30:00"
+}, {
+  "@type" : "doNotDisturb",
+  "duration" : 30,
+  "repeat" : "THURSDAY",
+  "event" : "LUNCH",
+  "startT" : "11:30:00"
+}, {
+  "@type" : "schoolActivity",
+  "duration" : 87658,
+  "deadline" : "2018-05-25T12:00:00",
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "duration" : 20160,
+  "deadline" : "2018-03-16T12:00:00",
+  "name" : "Téma r.p. a b.p.",
+  "description" : "Dohodnúť tému ročníkového projektu a bakalárskej práce.",
+  "schoolActivityType" : "HOMEWORK"
+}, {
+  "@type" : "schoolActivity",
+  "duration" : 87658,
+  "deadline" : "2018-05-31T12:00:00",
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "duration" : 262974,
+  "deadline" : "2018-09-15T00:00:00",
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "sportActivity",
+  "startDT" : "2018-06-05T10:00:00",
+  "duration" : 60,
+  "description" : "Hra Tenis",
+  "location" : "Kolej 17. listopadu, kurt pred Vltavou",
+  "sportActivityType" : "RACQUET"
+}, {
+  "@type" : "sportActivity",
+  "startDT" : "2018-06-08T18:00:00",
+  "duration" : 50,
+  "description" : "Hra Ping-Pong",
+  "location" : "Kolej 17. listopadu",
+  "sportActivityType" : "RACQUET"
+}, {
+  "@type" : "freeTime",
+  "startDT" : "2018-06-09T20:00:00",
+  "duration" : 90,
+  "name" : "Kino Cinemax",
+  "description" : "Star Wars"
+} ]

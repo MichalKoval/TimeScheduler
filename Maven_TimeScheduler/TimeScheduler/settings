@@ -1,0 +1,7 @@
+{
+  "fileName" : "settings",
+  "timeZone" : 1,
+  "notificationEnabled" : true,
+  "activitiesDataInFileName" : "scheduler_input",
+  "activitiesDataOutFileName" : "scheduler_output"
+}

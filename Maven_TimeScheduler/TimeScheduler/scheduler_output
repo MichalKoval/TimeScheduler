@@ -1,0 +1,1340 @@
+[ {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-03T06:00:00",
+  "duration" : 960,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-04T06:00:00",
+  "duration" : 330,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-04T12:00:00",
+  "duration" : 600,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-05T06:00:00",
+  "duration" : 240,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "sportActivity",
+  "startDT" : "2018-06-05T10:00:00",
+  "duration" : 60,
+  "description" : "Hra Tenis",
+  "location" : "Kolej 17. listopadu, kurt pred Vltavou",
+  "sportActivityType" : "RACQUET"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-05T11:00:00",
+  "duration" : 90,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-05T13:00:00",
+  "duration" : 540,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-06T06:00:00",
+  "duration" : 345,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-06T12:15:00",
+  "duration" : 585,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-07T06:00:00",
+  "duration" : 960,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-08T06:00:00",
+  "duration" : 720,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "sportActivity",
+  "startDT" : "2018-06-08T18:00:00",
+  "duration" : 50,
+  "description" : "Hra Ping-Pong",
+  "location" : "Kolej 17. listopadu",
+  "sportActivityType" : "RACQUET"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-08T18:50:00",
+  "duration" : 190,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-09T06:00:00",
+  "duration" : 840,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "freeTime",
+  "startDT" : "2018-06-09T20:00:00",
+  "duration" : 90,
+  "name" : "Kino Cinemax",
+  "description" : "Star Wars"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-09T21:30:00",
+  "duration" : 30,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-10T06:00:00",
+  "duration" : 960,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-11T06:00:00",
+  "duration" : 330,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-11T12:00:00",
+  "duration" : 600,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-12T06:00:00",
+  "duration" : 390,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-12T13:00:00",
+  "duration" : 540,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-13T06:00:00",
+  "duration" : 345,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-13T12:15:00",
+  "duration" : 585,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-14T06:00:00",
+  "duration" : 960,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-15T06:00:00",
+  "duration" : 960,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-16T06:00:00",
+  "duration" : 960,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-17T06:00:00",
+  "duration" : 960,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-18T06:00:00",
+  "duration" : 330,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-18T12:00:00",
+  "duration" : 600,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-19T06:00:00",
+  "duration" : 390,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-19T13:00:00",
+  "duration" : 540,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-20T06:00:00",
+  "duration" : 345,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-20T12:15:00",
+  "duration" : 585,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-21T06:00:00",
+  "duration" : 960,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-22T06:00:00",
+  "duration" : 960,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-23T06:00:00",
+  "duration" : 960,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-24T06:00:00",
+  "duration" : 310,
+  "name" : "Java, zápočtový program",
+  "description" : "Vypracovanie zápočtového programu na tému 'TimeScheduler'.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-24T11:10:00",
+  "duration" : 650,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-25T06:00:00",
+  "duration" : 330,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-25T12:00:00",
+  "duration" : 600,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-26T06:00:00",
+  "duration" : 390,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-26T13:00:00",
+  "duration" : 540,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-27T06:00:00",
+  "duration" : 345,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-27T12:15:00",
+  "duration" : 585,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-28T06:00:00",
+  "duration" : 960,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-29T06:00:00",
+  "duration" : 960,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-06-30T06:00:00",
+  "duration" : 960,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-01T06:00:00",
+  "duration" : 960,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-02T06:00:00",
+  "duration" : 330,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-02T12:00:00",
+  "duration" : 600,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-03T06:00:00",
+  "duration" : 390,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-03T13:00:00",
+  "duration" : 540,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-04T06:00:00",
+  "duration" : 345,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-04T12:15:00",
+  "duration" : 585,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-05T06:00:00",
+  "duration" : 960,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-06T06:00:00",
+  "duration" : 960,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-07T06:00:00",
+  "duration" : 960,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-08T06:00:00",
+  "duration" : 960,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-09T06:00:00",
+  "duration" : 330,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-09T12:00:00",
+  "duration" : 600,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-10T06:00:00",
+  "duration" : 390,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-10T13:00:00",
+  "duration" : 540,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-11T06:00:00",
+  "duration" : 345,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-11T12:15:00",
+  "duration" : 585,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-12T06:00:00",
+  "duration" : 960,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-13T06:00:00",
+  "duration" : 960,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-14T06:00:00",
+  "duration" : 960,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-15T06:00:00",
+  "duration" : 960,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-16T06:00:00",
+  "duration" : 330,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-16T12:00:00",
+  "duration" : 600,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-17T06:00:00",
+  "duration" : 390,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-17T13:00:00",
+  "duration" : 540,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-18T06:00:00",
+  "duration" : 345,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-18T12:15:00",
+  "duration" : 585,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-19T06:00:00",
+  "duration" : 960,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-20T06:00:00",
+  "duration" : 960,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-21T06:00:00",
+  "duration" : 960,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-22T06:00:00",
+  "duration" : 960,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-23T06:00:00",
+  "duration" : 330,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-23T12:00:00",
+  "duration" : 600,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-24T06:00:00",
+  "duration" : 390,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-24T13:00:00",
+  "duration" : 540,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-25T06:00:00",
+  "duration" : 345,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-25T12:15:00",
+  "duration" : 585,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-26T06:00:00",
+  "duration" : 40,
+  "name" : "Ročníkový projekt",
+  "description" : "Vypracovanie projektu na vopred dohodnutú tému.",
+  "schoolActivityType" : "SEMESTRAL_WORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-26T06:40:00",
+  "duration" : 920,
+  "name" : "Téma r.p. a b.p.",
+  "description" : "Dohodnúť tému ročníkového projektu a bakalárskej práce.",
+  "schoolActivityType" : "HOMEWORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-27T06:00:00",
+  "duration" : 960,
+  "name" : "Téma r.p. a b.p.",
+  "description" : "Dohodnúť tému ročníkového projektu a bakalárskej práce.",
+  "schoolActivityType" : "HOMEWORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-28T06:00:00",
+  "duration" : 960,
+  "name" : "Téma r.p. a b.p.",
+  "description" : "Dohodnúť tému ročníkového projektu a bakalárskej práce.",
+  "schoolActivityType" : "HOMEWORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-29T06:00:00",
+  "duration" : 960,
+  "name" : "Téma r.p. a b.p.",
+  "description" : "Dohodnúť tému ročníkového projektu a bakalárskej práce.",
+  "schoolActivityType" : "HOMEWORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-30T06:00:00",
+  "duration" : 330,
+  "name" : "Téma r.p. a b.p.",
+  "description" : "Dohodnúť tému ročníkového projektu a bakalárskej práce.",
+  "schoolActivityType" : "HOMEWORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-30T12:00:00",
+  "duration" : 600,
+  "name" : "Téma r.p. a b.p.",
+  "description" : "Dohodnúť tému ročníkového projektu a bakalárskej práce.",
+  "schoolActivityType" : "HOMEWORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-31T06:00:00",
+  "duration" : 390,
+  "name" : "Téma r.p. a b.p.",
+  "description" : "Dohodnúť tému ročníkového projektu a bakalárskej práce.",
+  "schoolActivityType" : "HOMEWORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-07-31T13:00:00",
+  "duration" : 540,
+  "name" : "Téma r.p. a b.p.",
+  "description" : "Dohodnúť tému ročníkového projektu a bakalárskej práce.",
+  "schoolActivityType" : "HOMEWORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-01T06:00:00",
+  "duration" : 345,
+  "name" : "Téma r.p. a b.p.",
+  "description" : "Dohodnúť tému ročníkového projektu a bakalárskej práce.",
+  "schoolActivityType" : "HOMEWORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-01T12:15:00",
+  "duration" : 585,
+  "name" : "Téma r.p. a b.p.",
+  "description" : "Dohodnúť tému ročníkového projektu a bakalárskej práce.",
+  "schoolActivityType" : "HOMEWORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-02T06:00:00",
+  "duration" : 960,
+  "name" : "Téma r.p. a b.p.",
+  "description" : "Dohodnúť tému ročníkového projektu a bakalárskej práce.",
+  "schoolActivityType" : "HOMEWORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-03T06:00:00",
+  "duration" : 450,
+  "name" : "Téma r.p. a b.p.",
+  "description" : "Dohodnúť tému ročníkového projektu a bakalárskej práce.",
+  "schoolActivityType" : "HOMEWORK"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-03T13:30:00",
+  "duration" : 510,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-04T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-05T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-06T06:00:00",
+  "duration" : 330,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-06T12:00:00",
+  "duration" : 600,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-07T06:00:00",
+  "duration" : 390,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-07T13:00:00",
+  "duration" : 540,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-08T06:00:00",
+  "duration" : 345,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-08T12:15:00",
+  "duration" : 585,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-09T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-10T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-11T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-12T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-13T06:00:00",
+  "duration" : 330,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-13T12:00:00",
+  "duration" : 600,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-14T06:00:00",
+  "duration" : 390,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-14T13:00:00",
+  "duration" : 540,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-15T06:00:00",
+  "duration" : 345,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-15T12:15:00",
+  "duration" : 585,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-16T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-17T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-18T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-19T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-20T06:00:00",
+  "duration" : 330,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-20T12:00:00",
+  "duration" : 600,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-21T06:00:00",
+  "duration" : 390,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-21T13:00:00",
+  "duration" : 540,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-22T06:00:00",
+  "duration" : 345,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-22T12:15:00",
+  "duration" : 585,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-23T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-24T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-25T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-26T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-27T06:00:00",
+  "duration" : 330,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-27T12:00:00",
+  "duration" : 600,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-28T06:00:00",
+  "duration" : 390,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-28T13:00:00",
+  "duration" : 540,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-29T06:00:00",
+  "duration" : 345,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-29T12:15:00",
+  "duration" : 585,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-30T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-08-31T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-01T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-02T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-03T06:00:00",
+  "duration" : 330,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-03T12:00:00",
+  "duration" : 600,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-04T06:00:00",
+  "duration" : 390,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-04T13:00:00",
+  "duration" : 540,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-05T06:00:00",
+  "duration" : 345,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-05T12:15:00",
+  "duration" : 585,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-06T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-07T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-08T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-09T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-10T06:00:00",
+  "duration" : 330,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-10T12:00:00",
+  "duration" : 600,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-11T06:00:00",
+  "duration" : 390,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-11T13:00:00",
+  "duration" : 540,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-12T06:00:00",
+  "duration" : 345,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-12T12:15:00",
+  "duration" : 585,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-13T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-14T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-15T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-16T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-17T06:00:00",
+  "duration" : 330,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-17T12:00:00",
+  "duration" : 600,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-18T06:00:00",
+  "duration" : 390,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-18T13:00:00",
+  "duration" : 540,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-19T06:00:00",
+  "duration" : 345,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-19T12:15:00",
+  "duration" : 585,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-20T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-21T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-22T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-23T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-24T06:00:00",
+  "duration" : 330,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-24T12:00:00",
+  "duration" : 600,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-25T06:00:00",
+  "duration" : 390,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-25T13:00:00",
+  "duration" : 540,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-26T06:00:00",
+  "duration" : 345,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-26T12:15:00",
+  "duration" : 585,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-27T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-28T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-29T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-09-30T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-10-01T06:00:00",
+  "duration" : 330,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-10-01T12:00:00",
+  "duration" : 600,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-10-02T06:00:00",
+  "duration" : 390,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-10-02T13:00:00",
+  "duration" : 540,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-10-03T06:00:00",
+  "duration" : 345,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-10-03T12:15:00",
+  "duration" : 585,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-10-04T06:00:00",
+  "duration" : 960,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "schoolActivity",
+  "startDT" : "2018-10-05T06:00:00",
+  "duration" : 780,
+  "name" : "Vypracovanie bakalárskej práce",
+  "description" : "Vypracovanie bakalárskej práce nadväzujúcej na ročníkovy projekt.",
+  "schoolActivityType" : "BACHELOR_THESIS"
+}, {
+  "@type" : "doNotDisturb",
+  "duration" : 480,
+  "repeat" : "DAILY",
+  "event" : "SLEEP",
+  "startT" : "22:00:00"
+}, {
+  "@type" : "doNotDisturb",
+  "duration" : 30,
+  "repeat" : "WEDNESDAY",
+  "event" : "LUNCH",
+  "startT" : "11:45:00"
+}, {
+  "@type" : "doNotDisturb",
+  "duration" : 30,
+  "repeat" : "TUESDAY",
+  "event" : "LUNCH",
+  "startT" : "12:30:00"
+}, {
+  "@type" : "doNotDisturb",
+  "duration" : 30,
+  "repeat" : "MONDAY",
+  "event" : "LUNCH",
+  "startT" : "11:30:00"
+} ]
